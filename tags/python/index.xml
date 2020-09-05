@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Python - Tag - I&#39;m Leah</title>
+        <link>http://lingyaHu.github.io/tags/python/</link>
+        <description>Python - Tag - I&#39;m Leah</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hu.lingya.freja@gmail.com (Lingya Hu)</managingEditor>
+            <webMaster>hu.lingya.freja@gmail.com (Lingya Hu)</webMaster><lastBuildDate>Sat, 05 Sep 2020 13:58:18 &#43;0800</lastBuildDate><atom:link href="http://lingyaHu.github.io/tags/python/" rel="self" type="application/rss+xml" /><item>
+    <title>Othello</title>
+    <link>http://lingyaHu.github.io/othello/</link>
+    <pubDate>Sat, 05 Sep 2020 13:58:18 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://lingyaHu.github.io/othello/</guid>
+    <description><![CDATA[<p>This is a strategy board game for one player, with adjustable board size and AI to make the other move.</p>
+<p></p>]]></description>
+</item></channel>
+</rss>

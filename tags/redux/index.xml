@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Redux - Tag - I&#39;m Leah</title>
+        <link>http://lingyaHu.github.io/tags/redux/</link>
+        <description>Redux - Tag - I&#39;m Leah</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hu.lingya.freja@gmail.com (Lingya Hu)</managingEditor>
+            <webMaster>hu.lingya.freja@gmail.com (Lingya Hu)</webMaster><lastBuildDate>Thu, 03 Sep 2020 21:49:39 &#43;0800</lastBuildDate><atom:link href="http://lingyaHu.github.io/tags/redux/" rel="self" type="application/rss+xml" /><item>
+    <title>Connect_me</title>
+    <link>http://lingyaHu.github.io/connect_me/</link>
+    <pubDate>Thu, 03 Sep 2020 21:49:39 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://lingyaHu.github.io/connect_me/</guid>
+    <description><![CDATA[<p>This is a social network app that includes authentication, profiles and forum posts.</p>
+<p></p>]]></description>
+</item></channel>
+</rss>
